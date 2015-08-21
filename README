@@ -1,0 +1,19 @@
+HW 4:
+======
+
+Q 3.2.c) Implementation for EM is provided in file em_gmm.py in function "expectation_maximization(data, initial_mean, initial_class_prior)"
+
+Q.3.2.d) For intial mean and class_prior, final mean and class_prior can be calculated by executing em_gmm.py.
+Histogram and desity estimation plots can be found in histogram.png and density_plot.png. Further these files can be generated using 
+program histogram_and_density_plot.py.
+
+Q. 3.2.d.a)Countour plot can be found in countour.png. This plot can be generated using program plot_countour.py.
+
+=============================================================================================================================================
+
+
+Q. 5.2) Unnormalized graph laplacian matrix figure can be found in Laplace_matrix.png.
+
+Q. 5.3) Plot of second smallest vector sorted by values can be found in EigenVector.png
+
+==============================================================================================================================================
